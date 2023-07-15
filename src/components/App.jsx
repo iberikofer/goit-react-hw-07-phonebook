@@ -21,11 +21,11 @@ export const App = () => {
         alignItems: 'center',
         fontSize: 28,
         color: '#010101',
-        backgroundColor: 'yellowgreen',
+        backgroundColor: '#FF1493',
         gap: 50,
       }}
     >
-      <h1>Redux Phonebook</h1>
+      <h1>Asynchronous Redux Phonebook</h1>
       <ContactForm />
       <h2>Contacts</h2>
       <Filter />
